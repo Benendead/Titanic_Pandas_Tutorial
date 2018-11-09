@@ -2,4 +2,5 @@
 A Jupyter notebook working with the Kaggle Titanic dataset using Pandas.
 
 Includes tutorials for importing data, slicing DataFrames, editing column labels, preprocessing categories, and calculating 
-Gini indices all using Pandas.
+Gini indices, all using Pandas. Next up will be working on implementing a Decision Tree class using the methods so far 
+developed.
